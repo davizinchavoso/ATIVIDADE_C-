@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\bin\Debug\valor_booleano.exe.config
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\bin\Debug\valor_booleano.exe
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\bin\Debug\valor_booleano.pdb
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\obj\Debug\valor_booleano.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\obj\Debug\valor_booleano.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\obj\Debug\valor_booleano.exe
+C:\Users\davi.sportela\Documents\C#\valor_booleano\valor_booleano\obj\Debug\valor_booleano.pdb

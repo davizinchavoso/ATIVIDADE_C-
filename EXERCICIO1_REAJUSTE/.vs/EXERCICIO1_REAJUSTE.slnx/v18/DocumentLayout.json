@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO1_REAJUSTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5BA062-C851-4357-A635-8C0F399E86C6}|EXERCICIO1_REAJUSTE\\EXERCICIO1_REAJUSTE.csproj|c:\\users\\davi.sportela\\documents\\c#\\exercicio1_reajuste\\exercicio1_reajuste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5BA062-C851-4357-A635-8C0F399E86C6}|EXERCICIO1_REAJUSTE\\EXERCICIO1_REAJUSTE.csproj|solutionrelative:exercicio1_reajuste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO1_REAJUSTE\\EXERCICIO1_REAJUSTE\\Program.cs",
+              "RelativeDocumentMoniker": "EXERCICIO1_REAJUSTE\\Program.cs",
+              "ToolTip": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO1_REAJUSTE\\EXERCICIO1_REAJUSTE\\Program.cs",
+              "RelativeToolTip": "EXERCICIO1_REAJUSTE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:06:16.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

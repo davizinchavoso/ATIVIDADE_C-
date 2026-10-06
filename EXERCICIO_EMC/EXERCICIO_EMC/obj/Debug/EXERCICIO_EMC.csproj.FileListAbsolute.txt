@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\bin\Debug\EXERCICIO_EMC.exe.config
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\bin\Debug\EXERCICIO_EMC.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\bin\Debug\EXERCICIO_EMC.pdb
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\obj\Debug\EXERCICIO_EMC.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\obj\Debug\EXERCICIO_EMC.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\obj\Debug\EXERCICIO_EMC.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO_EMC\EXERCICIO_EMC\obj\Debug\EXERCICIO_EMC.pdb

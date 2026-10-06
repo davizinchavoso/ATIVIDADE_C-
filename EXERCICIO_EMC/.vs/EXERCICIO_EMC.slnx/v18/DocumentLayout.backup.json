@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO_EMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79B7E8E-1302-4D4C-8B92-EDFF9FDB4CA7}|EXERCICIO_EMC\\EXERCICIO_EMC.csproj|c:\\users\\davi.sportela\\documents\\c#\\exercicio_emc\\exercicio_emc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79B7E8E-1302-4D4C-8B92-EDFF9FDB4CA7}|EXERCICIO_EMC\\EXERCICIO_EMC.csproj|solutionrelative:exercicio_emc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO_EMC\\EXERCICIO_EMC\\Program.cs",
+              "RelativeDocumentMoniker": "EXERCICIO_EMC\\Program.cs",
+              "ToolTip": "C:\\Users\\davi.sportela\\Documents\\C#\\EXERCICIO_EMC\\EXERCICIO_EMC\\Program.cs",
+              "RelativeToolTip": "EXERCICIO_EMC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:13:07.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

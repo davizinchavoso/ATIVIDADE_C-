@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\bin\Debug\EXERCICIO1_REAJUSTE.exe.config
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\bin\Debug\EXERCICIO1_REAJUSTE.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\bin\Debug\EXERCICIO1_REAJUSTE.pdb
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\obj\Debug\EXERCICIO1_REAJUSTE.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\obj\Debug\EXERCICIO1_REAJUSTE.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\obj\Debug\EXERCICIO1_REAJUSTE.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO1_REAJUSTE\EXERCICIO1_REAJUSTE\obj\Debug\EXERCICIO1_REAJUSTE.pdb

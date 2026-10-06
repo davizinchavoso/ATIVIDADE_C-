@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\bin\Debug\EXERCICIO3.exe.config
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\bin\Debug\EXERCICIO3.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\bin\Debug\EXERCICIO3.pdb
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\obj\Debug\EXERCICIO3.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\obj\Debug\EXERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\obj\Debug\EXERCICIO3.exe
+C:\Users\davi.sportela\Documents\C#\EXERCICIO3\EXERCICIO3\obj\Debug\EXERCICIO3.pdb
